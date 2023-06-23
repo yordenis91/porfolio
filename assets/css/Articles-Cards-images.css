@@ -1,0 +1,9 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+.gradient {
+  background: linear-gradient(120deg, #3222ab, #0ea0ff);
+  color: #fff;
+}
+
